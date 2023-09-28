@@ -1,1 +1,1 @@
-# alx-interview
+pascal triangle
